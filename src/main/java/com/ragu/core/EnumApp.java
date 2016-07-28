@@ -1,6 +1,7 @@
 package com.ragu.core;
 
 /**
+ * Enum file1112212
  * @author ragu
  *
  */
