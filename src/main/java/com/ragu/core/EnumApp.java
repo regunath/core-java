@@ -1,5 +1,9 @@
 package com.ragu.core;
 
+/**
+ * @author ragu
+ *
+ */
 public class EnumApp {
 
 	public enum ScoreCalculationType {
